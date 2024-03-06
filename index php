@@ -25,7 +25,7 @@
 
 </head>
 <body>
-  <?php include "layout/header.html" ?>
+  <?php include "header.html" ?>
   <?php include "layout/dashboard.html" ?>
   <?php include "layout/footer.html" ?>
   
