@@ -1,1 +1,29 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Halaman Utama</title>
+    <script>
+        function loadContent(url, targetId) {
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    document.getElementById(targetId).innerHTML = this.responseText;
+                }
+            };
+            xhttp.open("GET", url, true);
+            xhttp.send();
+        }
+        
+        window.onload = function() {
+            loadContent("layout/dashboard.php", "dashboard");
+            /*loadContent("layout/sidebar.php", "sidebar");*/
+        };
+    </script>
+</head>
+<body>
+    <div id="dashboard"></div>
+    <div id="sidebar"></div>
+</body>
+</html>
