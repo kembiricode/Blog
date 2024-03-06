@@ -25,10 +25,9 @@
 	<title>FlixGo &ndash; Online Movies, TV Shows &amp; Cinema HTML Template</title>
 
 </head>
-<body>
-  <?php include "https://github.com/kembiricode/blog/blob/main/spot/header.html" ?>
-  <?php include "https://github.com/kembiricode/blog/blob/main/spot/dashboard.html" ?>
-  <?php include "https://github.com/kembiricode/blog/blob/main/spot/footer.html" ?>
+<body>https://raw.githack.com/kembiricode/blog/main/spot/header.html" ?>
+  <?php include "https://raw.githack.com/kembiricode/blog/main/spot/dashboard.html" ?>
+  <?php include "https://raw.githack.com/kembiricode/blog/main/spot/footer.html" ?>
   
 	<!-- JS -->
 
