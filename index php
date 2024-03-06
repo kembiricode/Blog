@@ -6,13 +6,14 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<!-- CSS -->
-	<link rel="stylesheet" href="spot/css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/splide.min.css">
-	<link rel="stylesheet" href="css/slimselect.css">
-	<link rel="stylesheet" href="css/plyr.css">
-	<link rel="stylesheet" href="css/photoswipe.css">
-	<link rel="stylesheet" href="css/default-skin.css">
-	<link rel="stylesheet" href="spot/css/main.css">
+	<link rel="stylesheet" href="https://github.com/kembiricode/blog/blob/main/spot/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://github.com/kembiricode/blog/blob/main/spot/css/splide.min.css">
+	<link rel="stylesheet" href="https://github.com/kembiricode/blog/blob/main/spot/css/slimselect.css">
+	<link rel="stylesheet" href="https://github.com/kembiricode/blog/blob/main/spot/css/plyr.css">
+	<link rel="stylesheet" href="https://github.com/kembiricode/blog/blob/main/spot/css/photoswipe.css">
+	<link rel="stylesheet" href="https://github.com/kembiricode/blog/blob/main/spot/css/default-skin.css">
+	<link rel="stylesheet" href="https://github.com/kembiricode/blog/blob/main/spot/css/main.css">
+
 
 	<!-- Favicons -->
 	<link rel="icon" type="image/png" href="favicons/icon-favicon-32x32.png" sizes="32x32">
@@ -30,13 +31,13 @@
   <?php include "layout/footer.html" ?>
   
 	<!-- JS -->
-	<script src="spot/js/bootstrap.bundle.min.js"></script>
-	<script src="js/smooth-scrollbar.js"></script>
-	<script src="js/splide.min.js"></script>
-	<script src="js/slimselect.min.js"></script>
-	<script src="js/plyr.min.js"></script>
-	<script src="js/photoswipe.min.js"></script>
-	<script src="js/photoswipe-ui-default.min.js"></script>
-	<script src="spot/js/main.js"></script>
+	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/bootstrap.bundle.min.js"></script>
+	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/smooth-scrollbar.js"></script>
+	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/splide.min.js"></script>
+	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/slimselect.min.js"></script>
+	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/plyr.min.js"></script>
+	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/photoswipe.min.js"></script>
+	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/photoswipe-ui-default.min.js"></script>
+	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/main.js"></script>
 </body>
 </html>
