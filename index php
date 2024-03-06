@@ -31,13 +31,22 @@
   <?php include "https://github.com/kembiricode/blog/blob/main/spot/footer.html" ?>
   
 	<!-- JS -->
-	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/bootstrap.bundle.min.js"></script>
-	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/smooth-scrollbar.js"></script>
-	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/splide.min.js"></script>
-	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/slimselect.min.js"></script>
-	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/plyr.min.js"></script>
-	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/photoswipe.min.js"></script>
-	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/photoswipe-ui-default.min.js"></script>
-	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/main.js"></script>
+
+	<script src="https://rawcdn.githack.com/kembiricode/blog/8b7ef8e30a6e0e8f8dc0024da62b566d1896dee2/spot/js/bootstrap.bundle.min.js"></script>
+
+	<script src="https://rawcdn.githack.com/kembiricode/blog/8b7ef8e30a6e0e8f8dc0024da62b566d1896dee2/spot/js/smooth-scrollbar.js"></script>
+
+	<script src="https://rawcdn.githack.com/kembiricode/blog/8b7ef8e30a6e0e8f8dc0024da62b566d1896dee2/spot/js/splide.min.js"></script>
+
+	<script src="https://rawcdn.githack.com/kembiricode/blog/8b7ef8e30a6e0e8f8dc0024da62b566d1896dee2/spot/js/slimselect.min.js"></script>
+
+	<script src="https://rawcdn.githack.com/kembiricode/blog/8b7ef8e30a6e0e8f8dc0024da62b566d1896dee2/spot/js/plyr.min.js"></script>
+
+	<script src="https://rawcdn.githack.com/kembiricode/blog/8b7ef8e30a6e0e8f8dc0024da62b566d1896dee2/spot/js/photoswipe.min.js"></script>
+
+	<script src="https://rawcdn.githack.com/kembiricode/blog/8b7ef8e30a6e0e8f8dc0024da62b566d1896dee2/spot/js/photoswipe-ui-default.min.js"></script>
+
+	<script src="https://rawcdn.githack.com/kembiricode/blog/8b7ef8e30a6e0e8f8dc0024da62b566d1896dee2/spot/js/main.js"></script>
+
 </body>
 </html>
