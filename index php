@@ -26,9 +26,9 @@
 
 </head>
 <body>
-  <?php include "header.html" ?>
-  <?php include "layout/dashboard.html" ?>
-  <?php include "layout/footer.html" ?>
+  <?php include "https://github.com/kembiricode/blog/blob/main/spot/header.html" ?>
+  <?php include "https://github.com/kembiricode/blog/blob/main/spot/dashboard.html" ?>
+  <?php include "https://github.com/kembiricode/blog/blob/main/spot/footer.html" ?>
   
 	<!-- JS -->
 	<script src="https://github.com/kembiricode/blog/blob/main/spot/js/bootstrap.bundle.min.js"></script>
